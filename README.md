@@ -2,7 +2,7 @@
 
 Answer prediction using Neural Nets.
 
-A python application based using the tensor flow library. Uses Recurrent Neural Nets and LSTMs to perform a question answering task on MCTest data set. 
+A python application built using the tensor flow library. Uses Recurrent Neural Nets and LSTMs to perform a question answering task on MCTest data set. 
 
 Concepts of Deep Learning are used to address the question answering task. The intention is to avoid the tedious task of numerous feature extraction that are done in traditional linguistic approaches. Long Short-Term Memory models are used to generate embeddings of questions and answers and we compute the distance between questions and answers pairs by measuring the cosine similarity in order to select the appropriate answer. 
 
